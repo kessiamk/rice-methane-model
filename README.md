@@ -17,7 +17,7 @@ uncertain is the estimate?
 1. Open colab.research.google.com and start a new notebook.
 2. Paste ch4_core.py into a cell and run it. Two lines should appear,
    ending with: All checks passed.
-3. Paste step2_scenarios.py, then step3_uncertainty.py, into new cells
+3. Paste step2_scenarios.py, then step3_uncertainty.py, into new cells in the same notebook
    and run them.
  
 ## Files
@@ -40,8 +40,8 @@ IPCC (2019). 2019 Refinement to the 2006 IPCC Guidelines for National
 Greenhouse Gas Inventories, Volume 4, Chapter 5, Section 5.5.
  
 ## Author and acknowledgements
-Kessia Maria Kins. Guidance from Dr. Chalapathy Reddy. AI tools helped check code.
+Kessia MK. Guidance from Dr. Chalapathy Reddy. AI tools helped check code. I ran the code, checked the values against the IPCC tables and rewrote the text myself.
  
 ## Licence
 MIT License. Copyright © 2026 kessiamk
-<img width="451" height="589" alt="image" src="https://github.com/user-attachments/assets/542be474-f415-4eef-a70d-4a45e3507d63" />
+
